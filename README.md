@@ -5,3 +5,5 @@ Repositorio de pruebas para repaso de [Git](https://git-scm.com/ "Git") y [GitHu
 * Comandos de **Git**
 * Flujo de trabajo de **Github**
 * Buenas y malas prácticas
+* Múltiples entornos de trabajo
+* Múltiples ejemplos
